@@ -82,10 +82,10 @@ WSGI_APPLICATION = 'resume.wsgi.application'
 DATABASES = {
     'default': {
     'ENGINE': 'django.db.backends.mysql',
-    'NAME': 'resume',
-    'USER': 'root',
-    'PASSWORD': '',
-    'HOST': '127.0.0.1',
+    'NAME': 'vpWqcExUmC',
+    'USER': 'vpWqcExUmC',
+    'PASSWORD': 'rdOx7GxEWc',
+    'HOST': 'remotemysql.com',
     'PORT': '3306',
     'OPTIONS': {
     'init_command': "SET sql_mode='STRICT_TRANS_TABLES'"
